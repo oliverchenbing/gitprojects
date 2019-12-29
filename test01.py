@@ -22,3 +22,6 @@ def test01():
 
 def test02():
     pass
+
+def test03():
+    pass
