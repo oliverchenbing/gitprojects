@@ -17,5 +17,8 @@ print(vegetable, new_list_02)
 
 print("hello world")
 
-def test():
+def test01():
+    pass
+
+def test02():
     pass
