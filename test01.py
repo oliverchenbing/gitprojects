@@ -25,3 +25,6 @@ def test02():
 
 def test03():
     pass
+
+def test04():
+    pass
