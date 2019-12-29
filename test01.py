@@ -1,4 +1,4 @@
-vegetable = ["青菜", "萝卜", "花菜"]
+﻿vegetable = ["青菜", "萝卜", "花菜"]
 print(id(vegetable))
 
 new_list_01 = vegetable.copy()
@@ -12,3 +12,5 @@ vegetable.append("卷心菜")
 
 print(vegetable, new_list_01)
 print(vegetable, new_list_02)
+
+print("hello world")
